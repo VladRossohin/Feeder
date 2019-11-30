@@ -1,0 +1,16 @@
+D:\Projects\Fdr\VIew\obj\Debug\netcoreapp3.0\View.csprojAssemblyReference.cache
+D:\Projects\Fdr\VIew\obj\Debug\netcoreapp3.0\app.Admin.resources
+D:\Projects\Fdr\VIew\obj\Debug\netcoreapp3.0\app.ChooseRole.resources
+D:\Projects\Fdr\VIew\obj\Debug\netcoreapp3.0\app.User.resources
+D:\Projects\Fdr\VIew\obj\Debug\netcoreapp3.0\app.UserLogin.resources
+D:\Projects\Fdr\VIew\obj\Debug\netcoreapp3.0\View.csproj.GenerateResource.cache
+D:\Projects\Fdr\VIew\obj\Debug\netcoreapp3.0\View.AssemblyInfoInputs.cache
+D:\Projects\Fdr\VIew\obj\Debug\netcoreapp3.0\View.AssemblyInfo.cs
+D:\Projects\Fdr\VIew\bin\Debug\netcoreapp3.0\View.exe
+D:\Projects\Fdr\VIew\bin\Debug\netcoreapp3.0\View.deps.json
+D:\Projects\Fdr\VIew\bin\Debug\netcoreapp3.0\View.runtimeconfig.json
+D:\Projects\Fdr\VIew\bin\Debug\netcoreapp3.0\View.runtimeconfig.dev.json
+D:\Projects\Fdr\VIew\bin\Debug\netcoreapp3.0\View.dll
+D:\Projects\Fdr\VIew\bin\Debug\netcoreapp3.0\View.pdb
+D:\Projects\Fdr\VIew\obj\Debug\netcoreapp3.0\View.dll
+D:\Projects\Fdr\VIew\obj\Debug\netcoreapp3.0\View.pdb

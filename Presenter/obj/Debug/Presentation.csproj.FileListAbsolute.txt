@@ -1,0 +1,3 @@
+D:\Projects\Fdr\Presenter\obj\Debug\Presentation.csprojAssemblyReference.cache
+D:\Projects\Fdr\Presenter\obj\Debug\Presenter.Properties.Resources.resources
+D:\Projects\Fdr\Presenter\obj\Debug\Presentation.csproj.GenerateResource.cache
